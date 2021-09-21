@@ -1,2 +1,2 @@
 # CleanArch
-Overview of clean architecture
+Cean code archticture for .NET
